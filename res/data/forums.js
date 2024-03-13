@@ -723,5 +723,13 @@ const db_forums_ex = [
         updatedAt: "2024/03/13",
         note: "与本站无关，系其他人创建",
         reference: []
-    }
+    },
+     {
+    title: "土豆MC",
+    url: "https://www.tudoumc.com/",
+    archiveUrl: "https://www.tudoumc.com/post/7016.html",
+    updatedAt: "2024/03/13",
+    note: "无敌土豆MC",
+    reference: []
+}
 ];
